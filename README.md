@@ -1,4 +1,4 @@
-# Sentiment Analyzer — Project 1
+# Sentiment Analyzer
 
 A local AI-powered sentiment analysis web app built with Python, HuggingFace Transformers, and Streamlit. Type any text and the app tells you whether it is Positive, Negative, or Neutral — with a confidence score. Runs 100% on your local machine with no API keys and no cloud costs.
 
